@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: http://dl2.smartisan.com/ota/delta/7.1.0/20191031/7.1.0-201910311044-user-dlt-555f80f67e.zip 
-  ROM_NAME: SmartisanOS
+  ROM_NAME: Smartisanos
   TZ: Asia/Shanghai
 
 jobs:
